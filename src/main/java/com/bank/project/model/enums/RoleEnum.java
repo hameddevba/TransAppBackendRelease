@@ -1,0 +1,13 @@
+package com.bank.project.model.enums;
+
+public enum RoleEnum {
+    ROLE_ADMIN,
+    ROLE_MODIFICATION,
+    ROLE_BALANCEGENERALE,
+    ROLE_BALANCEDETAILL,
+    ROLE_FLUXSORTANT,
+    ROLE_PREVISIONECH,
+    ROLE_RELEVECPTCOR,
+    ROLE_OUVERTURECREDOC,
+    ROLE_FLUXENTRANT,
+}
